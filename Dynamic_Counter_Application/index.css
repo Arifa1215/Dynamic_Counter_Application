@@ -1,0 +1,21 @@
+.bg-container{
+    background-color: #f1f5f8;
+    height:100vh;
+}
+.counter-heading{
+    color:black;
+    font-size:75px;
+    font-weight:bold;
+}
+.counter-text{
+    color:black;
+    font-size:75px;
+    font-weight:500;
+}
+.button{
+    border-radius: 5px;
+    padding:4px;
+    background-color: #f1f5f8;
+    color:black;  
+    
+}
